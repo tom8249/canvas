@@ -1,0 +1,18 @@
+canvas {
+    width: 800px;
+    height: 800px;
+    border: 4px solid black;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-options {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
